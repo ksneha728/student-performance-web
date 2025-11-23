@@ -77,4 +77,31 @@ The model is trained and saved as **model.pkl**.
 
 ## 📺 Screenshots (Add in GitHub)  
 You can upload screenshots later:
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/c691fe9d-aa42-42fb-aa7c-362cd39b4b2a" />
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/1a4cd12f-7de6-47f6-9f0b-24a24bcf60e5" />
+
+---
+
+## 📁 Project Structure
+
+student-performance-web/
+│ app.py
+│ model.pkl
+│ requirements.txt
+│
+├── templates/
+│ ├── index.html
+│ └── result.html
+│
+└── static/
+└── styles.css
+
+---
+
+## 💻 Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/YOUR-USERNAME/student-performance-web.git
+
 
